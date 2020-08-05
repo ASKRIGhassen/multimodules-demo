@@ -13,6 +13,7 @@
         <module>jpa-entities</module>
         <module>controllers</module>
         <module>web-api</module>
+        <module>converters</module>
     </modules>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
