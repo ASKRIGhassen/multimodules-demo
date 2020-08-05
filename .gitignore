@@ -28,3 +28,5 @@ hs_err_pid*
 /target
 *.lst
 /jpa-entities/target
+/controllers/target
+/web-api/target
