@@ -32,3 +32,4 @@ hs_err_pid*
 /web-api/target
 /web-app/target
 /converters/target
+.flattened-pom.xml
